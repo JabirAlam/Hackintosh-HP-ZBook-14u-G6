@@ -81,3 +81,5 @@ Whats Working and Not working?
 
 
 ❌ SC slot (Not tested, should not work)
+
+Good luck Hackintoshing!

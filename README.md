@@ -35,22 +35,22 @@ Thunderbolt -	Yes
 HDMI	1 x HDMI Port
 
 
-Card Reader	Yes
+Card Reader -	Yes
 
 
-Headphone Jack	Yes
+Headphone Jack -	Yes
 
 
-Camera	Yes
+Camera - Yes
 
 
-Touchpad	Yes
+Touchpad - Yes
 
 
-Inbuilt Microphone	Yes
+Inbuilt Microphone - Yes
 
 
-Optical Drive	No
+Optical Drive	- No
 
 
 Processor	Intel Core i5-8365U (1.6 GHz Up to 4.1 GHz with Intel Turbo Boost Technology,6 MB L3 cache and 4 cores)
